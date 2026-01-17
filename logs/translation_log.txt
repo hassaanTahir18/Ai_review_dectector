@@ -1,0 +1,180 @@
+Original: ye product bohat acha hai maza agaya
+Translated: This product is very good fun
+
+Prediction: Fake Review - 64.00%
+----------------------------------------
+Original: هذا المنتج جيد حقا
+Translated: This product is really good
+
+Prediction: Original Review - 67.70%
+----------------------------------------
+ Original: this is good
+Translated: this is good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: هذا المنتج جيد حقا
+Translated: This product is really good
+
+Prediction: Original Review - 67.70%
+----------------------------------------
+Original: ye product bohat axha hai meri kachi gili hogai hai 
+Translated: This product is excended, my raw wet
+
+Prediction: Original Review - 73.05%
+----------------------------------------
+Original: don't buy
+Translated: don't buy
+
+Prediction: Original Review - 89.48%
+----------------------------------------
+Original: not good 
+Translated: not good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: not good 
+Translated: not good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: very good
+Translated: very good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: nice product as shown in pic
+Translated: nice product as shown in pic
+
+Prediction: Original Review - 71.45%
+----------------------------------------
+Original: nice product as shown in pic
+Translated: nice product as shown in pic
+
+Prediction: Original Review - 71.45%
+----------------------------------------
+Original: good 
+Translated: good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: bad
+Translated: bad
+
+Prediction: Original Review - 86.24%
+----------------------------------------
+Original: good
+Translated: good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: good product as shown in the pic
+Translated: good product as shown in the pic
+
+Prediction: Original Review - 75.13%
+----------------------------------------
+Original: good product as shown in the pic definitly buy it i love this product i can't live without it 
+Translated: good product as shown in the pic definitly buy it i love this product i can't live without it
+
+Prediction: Original Review - 90.92%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Fake Review - 75.40%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 68.64%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.30%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.30%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.30%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.58%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.30%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Original Review - 65.30%
+----------------------------------------
+ERROR: Translation failed: [Errno 11001] getaddrinfo failed
+
+Prediction: Origieview - 65.30%
+----------------------------------------
+Original: bad
+
+Translated: bad
+
+Prediction: Original review - 86.24%
+----------------------------------------
+Original: good
+
+Translated: good
+
+Prediction: Fake Review - 62.68%
+----------------------------------------
+Original: good product
+
+Translated: good product
+
+Prediction: Fake Review - 75.40%
+----------------------------------------
+Original: good product received on time
+
+Translated: good product received on time
+
+Prediction: Fake Review - 74.50%
+----------------------------------------
+Original: good product received on time as shown in pics
+
+
+Translated: good product received on time as shown in pics
+
+Prediction: Original review - 71.52%
+----------------------------------------
+Original: good product received on time as shown in pics
+
+
+Translated: good product received on time as shown in pics
+
+Prediction: Original review - 71.52%
+----------------------------------------
+Original: good product received on time as shown in pics
+
+
+Translated: good product received on time as shown in pics
+
+Prediction: Original review - 71.52%
+----------------------------------------
+Original: good product 
+Translated: good product
+
+Prediction: Fake Review - 75.40%
+----------------------------------------
+Original: good product recieved on time as shown in picture
+Translated: good product recieved on time as shown in picture
+
+Prediction: Original review - 69.59%
+----------------------------------------
+Original: product kafi achi ti 
+Translated: Product Kufi
+
+Prediction: Fake Review - 66.84%
+----------------------------------------
